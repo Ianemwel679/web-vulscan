@@ -19,11 +19,9 @@ This project is a web vulnerability scanner that helps identify potential securi
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.png)
-*Screenshot 1: Main GUI for entering URL and starting scan.
+![Screenshot 1](screenshot1.png)
 
 ![Screenshot 2](screenshot2.jpg)
-*Screenshot 2: Scan progress and results displayed in the console.*
 
 ## Installation
 
