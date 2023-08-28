@@ -26,7 +26,7 @@ This project is a web vulnerability scanner that helps identify potential securi
 ## Installation
 
 1. Clone the repository:
-git clone https://github.com/yourusername/web-vulnerability-scanner.git
+git clone https://github.com/Ianemwel679/web-vulnerability-scanner.git
 
 2. Navigate to the project directory:
 cd web-vulnerability-scanner
